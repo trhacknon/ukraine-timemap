@@ -8,6 +8,7 @@ Read Bellingcat's article about this project in
 <a href="https://ru.bellingcat.com/novosti/2022/03/18/hospitals-bombed-and-apartments-destroyed-mapping-incidents-of-civilian-harm-in-ukraine-ru/">Русский (Россия)</a>
 </h3>
 
+[![Run on Repl.it](https://github.com/trhacknon/ukraine-timemap)](https://repl.it/github/trhacknon/ukraine-timemap)
 <p align="center">
 <strong>
 	TimeMap is a tool for exploration, monitoring and classification of incidents in time and space, originally forked from <a href="https://github.com/forensic-architecture/timemap">forensic-architecture/timemap</a>.
@@ -25,7 +26,7 @@ Read Bellingcat's article about this project in
 * For more info visit the [original repo](https://github.com/forensic-architecture/timemap)
 
 ## Contributing
-Please check our [issues page](https://github.com/bellingcat/ukraine-timemap/issues) for desired contributions, and feel free to suggest your own. 
+Please check our [issues page](https://github.com/trhacknon/ukraine-timemap/issues) for desired contributions, and feel free to suggest your own. 
 
 ## Configurations
 
